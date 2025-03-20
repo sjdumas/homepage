@@ -4,7 +4,6 @@ This is a required project - Homepage - for [The Odin Project](https://www.theod
 ## Skills Required
 - HTML
 - CSS
-- JavaScript
 
 ## Demo
 Check out the [live demo](https://sjdumas.github.io/homepage).
